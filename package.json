@@ -1,0 +1,13 @@
+{
+  "name": "web-state-checker",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "start": "node src/checker.js",
+    "check:dry-run": "DRY_RUN=true node src/checker.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
