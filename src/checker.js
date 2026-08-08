@@ -1,7 +1,7 @@
 import fs from "node:fs/promises";
 import path from "node:path";
 
-const DEFAULT_TARGET_URL = "https://official-goods-store.jp/colorfulpalette/product/list";
+const DEFAULT_TARGET_URL = "https://colorfulpalette-store.jp/product/list";
 const BASE_URL = "https://official-goods-store.jp";
 
 const config = {
