@@ -1,8 +1,32 @@
 {
-  "checkedAt": "2026-09-30T09:01:03.579Z",
+  "checkedAt": "2026-10-01T09:26:16.136Z",
   "targetUrl": "https://colorfulpalette-store.jp/product/list",
   "itemLimit": 20,
   "items": [
+    {
+      "href": "https://official-goods-store.jp/v2/product/detail/SK-26-AB-320-1251",
+      "title": "WORLD LINK プレミアムポスター",
+      "price": "¥3,300 (tax in)",
+      "image": "https://assets.official-goods-store.jp/product/SK-26-AB-320-1251/9d554f27863b48aec9bd35e45d9464c6b27dbee7f3ad60c9e7dfe654c9f573fe.jpg"
+    },
+    {
+      "href": "https://official-goods-store.jp/v2/product/detail/SK-26-AB-910-1253",
+      "title": "WORLD LINK プレミアムセット",
+      "price": "¥2,750 (tax in)",
+      "image": "https://assets.official-goods-store.jp/product/SK-26-AB-910-1253/e87f71fd8f62f1eb465a995ca0c13588f5587000391a33379c9d998f8c719b8f.jpg"
+    },
+    {
+      "href": "https://official-goods-store.jp/v2/product/detail/SK-26-AB-910-1254",
+      "title": "WORLD LINK ePick card series ディスプレイフレームセット",
+      "price": "¥1,980 (tax in)",
+      "image": "https://assets.official-goods-store.jp/product/SK-26-AB-910-1254/2295f40c6acc521a3cfe99deb227cad45cde4eff9a429312097be660c62e58cf.jpg"
+    },
+    {
+      "href": "https://official-goods-store.jp/v2/product/detail/SK-26-AB-250-1252",
+      "title": "WORLD LINK クリアファイル",
+      "price": "¥550 (tax in)",
+      "image": "https://assets.official-goods-store.jp/product/SK-26-AB-250-1252/b83c9662192d3a6df04bde4462cffd4561e1f91cd9399be1ee3a20224fc76fae.jpg"
+    },
     {
       "href": "https://official-goods-store.jp/v2/product/detail/SK-0005127",
       "title": "グリッター缶バッジ イベントイラストコレクション vol.55 A",
@@ -50,30 +74,6 @@
       "title": "グリッター缶バッジ イベントイラストコレクション vol.56 A BOX",
       "price": "¥3,520 (tax in)",
       "image": "https://assets.official-goods-store.jp/product/SK-0005136-NS/5d6909b6d30c8a9d294b1c31f08bb33c3f88646e0675d002ce026491efd0b632.jpg"
-    },
-    {
-      "href": "https://official-goods-store.jp/v2/product/detail/SK-0005137",
-      "title": "グリッター缶バッジ イベントイラストコレクション vol.56 B",
-      "price": "¥440 (tax in)",
-      "image": "https://assets.official-goods-store.jp/product/SK-0005137/74d6b2697faa8ede28641c954f57b0b49f5e7ae0803edfe0fa591f783935a27d.jpg"
-    },
-    {
-      "href": "https://official-goods-store.jp/v2/product/detail/SK-0005145-NS",
-      "title": "グリッター缶バッジ イベントイラストコレクション vol.56 B BOX 特典付き［KAITO］",
-      "price": "¥3,520 (tax in)",
-      "image": "https://assets.official-goods-store.jp/product/SK-0005145-NS/cb96dee89ec54c4eb524f0ac374ac451affcfc17c69dde808a0ba98e7292b753.jpg"
-    },
-    {
-      "href": "https://official-goods-store.jp/v2/product/detail/SK-0005140",
-      "title": "グリッター缶バッジ イベントイラストコレクション vol.56 C",
-      "price": "¥440 (tax in)",
-      "image": "https://assets.official-goods-store.jp/product/SK-0005140/57fc56e701ee4f596f212521aeae48823bfcb0a2bd290308fae12d851012540a.jpg"
-    },
-    {
-      "href": "https://official-goods-store.jp/v2/product/detail/SK-0005146-NS",
-      "title": "グリッター缶バッジ イベントイラストコレクション vol.56 C BOX 特典付き［鳳 えむ］",
-      "price": "¥3,520 (tax in)",
-      "image": "https://assets.official-goods-store.jp/product/SK-0005146-NS/765293486466844c4f5fefd5fb6c32229dcfba20949736b077204343df52e273.jpg"
     }
   ]
 }
