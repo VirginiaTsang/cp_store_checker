@@ -1,8 +1,14 @@
 {
-  "checkedAt": "2026-10-23T07:56:59.916Z",
+  "checkedAt": "2026-10-24T07:36:29.002Z",
   "targetUrl": "https://colorfulpalette-store.jp/product/list",
   "itemLimit": 20,
   "items": [
+    {
+      "href": "https://official-goods-store.jp/v2/product/detail/SK-0002262-NS",
+      "title": "プロジェクトセカイ カラフルステージ！ feat. 初音ミク×サンリオキャラクターズ ePick card series BOX 特典付き",
+      "price": "全6種 各 ¥4,125 (tax in)",
+      "image": "https://assets.official-goods-store.jp/product/SK-0002262-NS/1f6a4c92dac5c5e37a0d20fa957cfa9b46ad361506490fc948c385fa69d26f99.jpg"
+    },
     {
       "href": "https://official-goods-store.jp/v2/product/detail/SK-26-RG-130-1198",
       "title": "アクリルバナーバッジコレクション vol.21 A",
@@ -68,12 +74,6 @@
       "title": "グリッター缶バッジ イベントイラストコレクション vol.60 A",
       "price": "¥550 (tax in)",
       "image": "https://assets.official-goods-store.jp/product/SK-26-RG-120-1177/158a68c99813db124d438de96767f1f8386ab76bf9c11da8e9b30e9dd52ab055.jpg"
-    },
-    {
-      "href": "https://official-goods-store.jp/v2/product/detail/SK-26-RG-123-1195",
-      "title": "グリッター缶バッジ イベントイラストコレクション vol.60 A BOX 特典付き［朝比奈 まふゆ］",
-      "price": "¥4,400 (tax in)",
-      "image": "https://assets.official-goods-store.jp/product/SK-26-RG-123-1195/2ed88888113af2c5805eaabfdde98b3edff9599cf400994248c67ffdfa682685.jpg"
     }
   ]
 }
