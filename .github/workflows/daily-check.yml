@@ -1,8 +1,6 @@
 name: Daily goods check
 
 on:
-  schedule:
-    - cron: "50 2 * * *"
   workflow_dispatch:
 
 permissions:
